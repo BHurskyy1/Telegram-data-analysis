@@ -36,4 +36,6 @@ DIALOGS_MERGED_DATA_USERS_ALL_PATH = "/your path/dialogs_users_all.csv"
 
 P.S. Untitleddesign11.png is a mask for one of the Wordclouds
 P.S. 2 Here is the "favourite stickers graph", plotly can't work properly with github preview due to js
+
+
 ![newplot (1)](https://user-images.githubusercontent.com/84453245/167308026-817534e2-5785-4ab5-a79c-cc3a11e42533.png)
