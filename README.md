@@ -22,3 +22,5 @@ Plots and stats were made with pandas, matplotlib, plotly.
 * Punctuation mistakes
 * Attitude towards countries/leaders
 * Citation index (fwd messages)
+
+P.S. Untitleddesign11.png is a mask for one of the Wordclouds
